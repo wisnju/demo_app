@@ -6,9 +6,9 @@ application up and running.
 Things you may want to cover:
 
 * Ruby version
-
+ruby 2.3.4
 * System dependencies
-
+ubuntu 16.04
 * Configuration
 
 * Database creation
